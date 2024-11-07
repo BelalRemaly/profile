@@ -1,0 +1,28 @@
+@media (max-width : 780px) {
+    .left {
+        width: 100%;
+        position: relative;
+    }
+
+    .right {
+        width: 100%;
+        position: relative;
+    }
+}
+
+@media (max-width : 500px) {
+    section {
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+
+@media (max-width : 395px) {
+    .left h3 {
+        font-size: 30px;
+    }
+
+    .left h1 {
+        font-size: 48px;
+    }
+}
